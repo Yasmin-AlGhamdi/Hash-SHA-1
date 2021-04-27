@@ -1,0 +1,13 @@
+C:\Users\Yasmin\source\repos\SHA1\SHA1\obj\Debug\netcoreapp3.1\SHA1.csprojAssemblyReference.cache
+C:\Users\Yasmin\source\repos\SHA1\SHA1\obj\Debug\netcoreapp3.1\SHA1.AssemblyInfoInputs.cache
+C:\Users\Yasmin\source\repos\SHA1\SHA1\obj\Debug\netcoreapp3.1\SHA1.AssemblyInfo.cs
+C:\Users\Yasmin\source\repos\SHA1\SHA1\obj\Debug\netcoreapp3.1\SHA1.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\source\repos\SHA1\SHA1\bin\Debug\netcoreapp3.1\SHA1.exe
+C:\Users\Yasmin\source\repos\SHA1\SHA1\bin\Debug\netcoreapp3.1\SHA1.deps.json
+C:\Users\Yasmin\source\repos\SHA1\SHA1\bin\Debug\netcoreapp3.1\SHA1.runtimeconfig.json
+C:\Users\Yasmin\source\repos\SHA1\SHA1\bin\Debug\netcoreapp3.1\SHA1.runtimeconfig.dev.json
+C:\Users\Yasmin\source\repos\SHA1\SHA1\bin\Debug\netcoreapp3.1\SHA1.dll
+C:\Users\Yasmin\source\repos\SHA1\SHA1\bin\Debug\netcoreapp3.1\SHA1.pdb
+C:\Users\Yasmin\source\repos\SHA1\SHA1\obj\Debug\netcoreapp3.1\SHA1.dll
+C:\Users\Yasmin\source\repos\SHA1\SHA1\obj\Debug\netcoreapp3.1\SHA1.pdb
+C:\Users\Yasmin\source\repos\SHA1\SHA1\obj\Debug\netcoreapp3.1\SHA1.genruntimeconfig.cache
